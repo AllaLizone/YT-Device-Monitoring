@@ -1,3 +1,3 @@
 print("Hello, world")
 print ("Some string")
-print("from VS")
+print("from VS2x")
